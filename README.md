@@ -14,7 +14,7 @@
  
 <br>
  
-### Entre em contato com as redes abaixo!
+### Fale comigo através das redes sociais listadas a seguir:
  
 <div> 
   <a href="https://instagram.com/kaylan_sousa9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

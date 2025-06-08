@@ -18,7 +18,10 @@
  
 <div> 
   <a href="https://instagram.com/kaylan_sousa9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://discord.com/users/COLETOAPENAS#6457" target="_blank">
+  Meu perfil no Discord
+</a>
+
  <a href="mailto:Kaylansousa2006@gmail.com?subject=Contato&body=Olá, quero saber mais sobre seus produtos.">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
